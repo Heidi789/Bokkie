@@ -8,6 +8,7 @@
 }
 .allbookdiv{
   height: 100%;
+  border-radius: 2%;
 }
 .booktitle{
   inline-size: fit-content;
